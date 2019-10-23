@@ -30,7 +30,7 @@ extends Node
 # 'useUtcTimeStamp' const below.  The base filename and extension can be changed
 # with the 'logFileBaseName' and 'logFileExtension' consts below.
 #
-# A (abbreviated) example of the output:
+# An (abbreviated) example of the output:
 #
 #   ---Logging begins---
 #   GameScene._ready()
