@@ -6,7 +6,7 @@ extends Node
 # and other information as follows:
 #
 #   func _ready():
-#	    logger.out("GameScene._ready()")
+#       logger.out("GameScene._ready()")
 #       ...
 #       logger.out("Adding game objects to scene...")
 #
@@ -15,7 +15,7 @@ extends Node
 #       ...
 #
 #   func handlePlayerDeath():
-#	    logger.out("Game over.")
+#       logger.out("Game over.")
 #       ...
 #
 # The logging information is written in a low priority background thread and
